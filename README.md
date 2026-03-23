@@ -241,6 +241,7 @@ The syllabus is divided into **10 major sections** covering core theoretical and
 - B Trees
 - B+ Trees
 
+
 ## Transaction Management
 - Transactions
 - Concurrency Control
